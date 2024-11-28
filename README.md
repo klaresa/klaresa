@@ -8,7 +8,7 @@
   <span><img src="https://img.shields.io/badge/TypeScript-e3e3e3?style=for-the-badge&logo=typescript&logoColor=007ACC" /></span>
 </div>
 <div align="center">
-  <span>Here's some of my fav techs</span>
+  <span>some of my favs</span>
   <br />
   <br />
   <div style="text-align: center;">
